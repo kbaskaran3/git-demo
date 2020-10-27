@@ -2,8 +2,6 @@
 
 This is the first file in this repository
 
-##Ipusum Below
+##Website Contents
 
-Some test text here
-
-MORE TEXT HERE
+1. index.html
